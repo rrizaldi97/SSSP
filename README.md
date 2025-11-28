@@ -1,6 +1,31 @@
 # 🧮 Single-Source Shortest Path (SSSP)
-**Comparative Study of Dijkstra and Bellman–Ford Algorithms**  
-Kelompok 4 – Universitas Pakuan (2025)
+**A Comparative Study of Dijkstra and Bellman–Ford Algorithms**  
+📚 *Ujian Tengah Semester (UTS) – Analisis dan Desain Algoritma, Semester Ganjil 2025/2026*  
+**Program Studi:** S2 Ilmu Komputer, Universitas Pakuan  
+**Dosen Penguji:** Dr. Fajar Delli Whartiko, MM, MKom  
+
+---
+
+## 🏫 Informasi Ujian
+| Keterangan | Detail |
+|-------------|--------|
+| **Mata Ujian** | Analisis dan Desain Algoritma |
+| **Tanggal Ujian** | Sabtu, 22 November 2025 |
+| **Waktu** | 13.00 – 15.00 WIB |
+| **Sifat Ujian** | Take Home |
+| **Kelas** | 1 (Satu) / Kelas A |
+
+---
+
+## 👥 Kelompok 4
+
+| No | Nama Lengkap | NPM | Tugas dan Kontribusi |
+|----|---------------|------|----------------------|
+| 1 | **Yuni Sri Melani** | 072925007 | Penulisan abstrak, tinjauan pustaka, dan penyusunan draft jurnal |
+| 2 | **Fahmi Prasanda** | 072925009 | Analisis kompleksitas algoritma dan perbandingan hasil eksperimen |
+| 3 | **Ihsan Faisal** | 072925004 | Implementasi algoritma Dijkstra dan Bellman–Ford dalam `SSSP.ipynb` |
+| 4 | **Reza Rizaldi** | 072925016 | Eksperimen big data, dokumentasi hasil, dan pembuatan repositori GitHub |
+| 5 | **Arief Dhiemas Suryanto** | 072925019 | Visualisasi hasil, analisis performa, dan penyusunan kesimpulan akhir |
 
 ---
 
