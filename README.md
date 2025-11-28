@@ -45,6 +45,6 @@ Eksperimen dilakukan untuk mengevaluasi **kompleksitas waktu**, **efisiensi memo
 ## 🧪 Lingkungan dan Dependensi
 Notebook ini dijalankan menggunakan:
 - Python ≥ 3.10  
-- Library utama:
+- Library utama: 
   ```bash
   pip install numpy pandas matplotlib networkx
